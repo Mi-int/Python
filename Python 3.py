@@ -165,7 +165,7 @@ while i<10:
 # In[28]:
 
 
-for i in range(0,10):
+for i in range(0,10): #range는 특정 구간의 순차적인 수로 구성
   print(i,end=' ')
 
 
